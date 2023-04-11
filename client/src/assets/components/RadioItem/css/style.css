@@ -1,0 +1,7 @@
+/* Блок radio-button */
+.radio-item_container{
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    border: 2px solid black;
+}
